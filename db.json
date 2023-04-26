@@ -11,7 +11,7 @@
      {
           "id": 2,
           "type": "Apartment",
-          "details": "This apartment is finished abd fully furnished...........",
+          "details": "This apartment is finished and fully furnished...........",
           "price": "250000",
           "town": "Tarxien",
           "finished": "true"
